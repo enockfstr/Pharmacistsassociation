@@ -12,7 +12,7 @@
       color: #333;
     }
     header {
-      background: #2e7d32;
+      background: #000000; /* Black from flag */
       color: white;
       text-align: center;
       padding: 30px 20px;
@@ -21,7 +21,7 @@
       margin-bottom: 10px;
     }
     nav {
-      background: #388e3c;
+      background: #d32f2f; /* Red from flag */
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
@@ -41,21 +41,47 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     section h2 {
-      color: #2e7d32;
+      color: #2e7d32; /* Green from flag */
       margin-bottom: 20px;
     }
     ul {
       padding-left: 20px;
     }
     footer {
-      background: #1b5e20;
+      background: #2e7d32; /* Green from flag */
       color: white;
       text-align: center;
       padding: 20px;
       margin-top: 30px;
     }
     a {
-      color: #2e7d32;
+      color: #d32f2f; /* Red accent for links */
+    }
+
+    /* Directors Section Styling */
+    #directors {
+      background: linear-gradient(to right, #d32f2f, #000000, #2e7d32);
+      color: white;
+      padding: 40px;
+      margin: 30px auto;
+      max-width: 1000px;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    #directors h2 {
+      text-align: center;
+      font-size: 28px;
+      margin-bottom: 20px;
+      border-bottom: 2px solid white;
+      padding-bottom: 10px;
+    }
+    .directors-list {
+      list-style-type: square;
+      padding-left: 20px;
+      font-size: 18px;
+    }
+    .directors-list li {
+      margin: 12px 0;
     }
   </style>
 </head>
@@ -64,7 +90,7 @@
     <h1>Malawi Pharmacists Association</h1>
     <p>A Vision for Healthcare Advancement</p>
   </header>
-  
+
   <nav>
     <a href="#about">About</a>
     <a href="#objectives">Objectives</a>
@@ -72,6 +98,7 @@
     <a href="#cpd">CPD</a>
     <a href="#intro-letter">Welcome</a>
     <a href="#governance">Governance</a>
+    <a href="#directors">Directors</a>
     <a href="#contact">Contact</a>
   </nav>
 
@@ -131,76 +158,12 @@
     <p>Government registration solidifies our legitimacy, and emblem approval will formalize our presence across health sectors.</p>
   </section>
 
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p>Email: <a href="mailto:pharmacistsassociation2025@gmail.com">pharmacistsassociation2025@gmail.com</a></p>
-    <p>Phone: +265 999 429 513</p>
-  </section>
-
-  <footer>
-    &copy; 2025 Malawi Pharmacists Association. All rights reserved.
-  </footer>
-</body>
-</html>
-/* Updated Malawi-inspired theme */
-body {
-  font-family: "Segoe UI", sans-serif;
-  margin: 0;
-  background: #f4f4f4;
-  color: #333;
-}
-
-header {
-  background: #000000; /* Black */
-  color: #ffffff;
-  text-align: center;
-  padding: 30px 20px;
-}
-
-header h1 {
-  margin-bottom: 10px;
-}
-
-nav {
-  background: #d32f2f; /* Red */
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 10px;
-}
-
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 10px 15px;
-  font-weight: bold;
-}
-
-section {
-  background: white;
-  margin: 30px auto;
-  padding: 40px;
-  max-width: 1000px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-section h2 {
-  color: #2e7d32; /* Green - keeping this to reflect nature and healthcare */
-  margin-bottom: 20px;
-}
-
-ul {
-  padding-left: 20px;
-}
-
-footer {
-  background: #2e7d32; /* Green */
-  color: white;
-  text-align: center;
-  padding: 20px;
-  margin-top: 30px;
-}
-
-a {
-  color: #d32f2f; /* Red */
-}
+  <section id="directors">
+    <h2>Board of Directors</h2>
+    <ul class="directors-list">
+      <li><strong>Young Ben Muhamba</strong> – Director (Chiradzulu, Area 23)</li>
+      <li><strong>Aggrey Phiri</strong> – Director (Lilongwe Urban, Area 49)</li>
+      <li><strong>Msungeni Chiponda</strong> – Director (Lilongwe Urban, Area 47)</li>
+      <li><strong>Grey Chapota</strong> – Director (Lilongwe Urban, Area 51B)</li>
+      <li><strong>Nelson Nanchinga</strong> – Director (Lilongwe Urban, Area 23)</li>
+      <li><strong>Benjamin Chinoko</strong> – Secretary (Lilongwe Urban
