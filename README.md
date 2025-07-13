@@ -8,32 +8,31 @@
     body {
       font-family: "Segoe UI", sans-serif;
       margin: 0;
-      background: #f5f5f5;
+      background: #f4f4f4;
       color: #333;
     }
-
     header {
-      background: #5c6bc0; /* Muted blue */
+      background: #2e7d32;
       color: white;
       text-align: center;
       padding: 30px 20px;
     }
-
+    header h1 {
+      margin-bottom: 10px;
+    }
     nav {
-      background: #5c6bc0;
+      background: #388e3c;
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
       padding: 10px;
     }
-
     nav a {
       color: white;
       text-decoration: none;
       margin: 10px 15px;
       font-weight: bold;
     }
-
     section {
       background: white;
       margin: 30px auto;
@@ -41,54 +40,22 @@
       max-width: 1000px;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
-
     section h2 {
-      color: #455a64; /* Slate grey */
+      color: #2e7d32;
       margin-bottom: 20px;
     }
-
     ul {
       padding-left: 20px;
     }
-
-    a {
-      color: #3f51b5; /* Calm blue */
-    }
-
     footer {
-      background: #455a64;
+      background: #1b5e20;
       color: white;
       text-align: center;
       padding: 20px;
       margin-top: 30px;
     }
-
-    #directors {
-      background-color: #e3f2fd; /* Soft blue accent */
-      color: #333;
-      padding: 40px;
-      margin: 30px auto;
-      max-width: 1000px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-
-    #directors h2 {
-      text-align: center;
-      font-size: 28px;
-      margin-bottom: 20px;
-      border-bottom: 2px solid #3f51b5;
-      padding-bottom: 10px;
-    }
-
-    .directors-list {
-      list-style-type: square;
-      padding-left: 20px;
-      font-size: 18px;
-    }
-
-    .directors-list li {
-      margin: 12px 0;
+    a {
+      color: #2e7d32;
     }
   </style>
 </head>
@@ -97,7 +64,7 @@
     <h1>Malawi Pharmacists Association</h1>
     <p>A Vision for Healthcare Advancement</p>
   </header>
-
+  
   <nav>
     <a href="#about">About</a>
     <a href="#objectives">Objectives</a>
@@ -105,7 +72,6 @@
     <a href="#cpd">CPD</a>
     <a href="#intro-letter">Welcome</a>
     <a href="#governance">Governance</a>
-    <a href="#directors">Directors</a>
     <a href="#contact">Contact</a>
   </nav>
 
@@ -163,18 +129,6 @@
     <h2>Governance & Identity</h2>
     <p>Led by committed professionals, our governance ensures strategic direction and accountability. We engage with health authorities to remain responsive and aligned with national priorities.</p>
     <p>Government registration solidifies our legitimacy, and emblem approval will formalize our presence across health sectors.</p>
-  </section>
-
-  <section id="directors">
-    <h2>Board of Directors</h2>
-    <ul class="directors-list">
-      <li><strong>Young Ben Muhamba</strong> – Director (Chiradzulu, Area 23)</li>
-      <li><strong>Aggrey Phiri</strong> – Director (Lilongwe Urban, Area 49)</li>
-      <li><strong>Msungeni Chiponda</strong> – Director (Lilongwe Urban, Area 47)</li>
-      <li><strong>Grey Chapota</strong> – Director (Lilongwe Urban, Area 51B)</li>
-      <li><strong>Nelson Nanchinga</strong> – Director (Lilongwe Urban, Area 23)</li>
-      <li><strong>Benjamin Chinoko</strong> – Secretary (Lilongwe Urban, Chiuzira)</li>
-    </ul>
   </section>
 
   <section id="contact">
