@@ -145,12 +145,38 @@
   <h2>Board of Directors</h2>
   <p>The following individuals serve as directors of the Malawi Pharmacists Association. They bring diverse expertise and a shared commitment to advancing pharmacy practice:</p>
   <ul>
-    <li><strong>Enock K Foster</strong> – President | <a href="mailto:enockfstr@gmail.com">enockfstr@gmail.com</a> | +265 999 42 9513</li>
-    <li><strong>Young Ben Muhamba</strong> – Director | <a href="mailto:ymuhamba@gmail.com">ymuhamba@gmail.com</a> | +265 998 125 258</li>
-    <li><strong>Aggrey Phiri</strong> – Director | <a href="mailto:aggreyphiri@gmail.com">aggreyphiri@gmail.com</a> | +265 884 407 229</li>
-    <li><strong>Msungeni Chiponda</strong> – Vice Secretary | <a href="mailto:chipondamsungeni@gmail.com">chipondamsungeni@gmail.com</a> | +265 997 449 671</li>
-    <li><strong>Grey Chapota</strong> – Director | <a href="mailto:gchapota@gmail.com">gchapota@gmail.com</a> | +265 994 636 847</li>
-    <li><strong>Nelson Nanchinga</strong> – Director | <a href="mailto:nnanchinga@yahoo.co.uk">nnanchinga@yahoo.co.uk</a> | +265 999 459 088</li>
+    <li><strong>Enock K Foster</strong> – President | <a href="mailto:enockfstr@gmail.com">enockfstr@gmail.com</a> 
+    <li><strong>Young Ben Muhamba</strong> – Director | <a href="mailto:ymuhamba@gmail.com">ymuhamba@gmail.com</a>
+    <li><strong>Aggrey Phiri</strong> – Director | <a href="mailto:aggreyphiri@gmail.com">aggreyphiri@gmail.com</a>
+    <li><strong>Msungeni Chiponda</strong> – Vice Secretary | <a href="mailto:chipondamsungeni@gmail.com">chipondamsungeni@gmail.com</a>
+    <li><strong>Grey Chapota</strong> – Director | <a href="mailto:gchapota@gmail.com">gchapota@gmail.com</a> 
+    <li><strong>Nelson Nanchinga</strong> – Director | <a href="mailto:nnanchinga@yahoo.co.uk">nnanchinga@yahoo.co.uk</a>
+  </ul>
+</section>
+<section id="resources">
+  <h2>Downloads & Resources</h2>
+  <p>Access important documents, forms, and strategic materials here:</p>
+  <ul>
+    <li>
+      <a href="documents/MPA_Membership_Form.pdf" download>
+        📝 Membership Registration Form (PDF)
+      </a>
+    </li>
+    <li>
+      <a href="documents/Strategic_Plan_2025.pdf" download>
+        📊 Strategic Plan Document (PDF)
+      </a>
+    </li>
+    <li>
+      <a href="documents/CPD_Schedule_2025.pdf" download>
+        📚 CPD Session Schedule (PDF)
+      </a>
+    </li>
+    <li>
+      <a href="documents/MPA_Logo.zip" download>
+        🎨 Official Logo Package (ZIP)
+      </a>
+    </li>
   </ul>
 </section>
 
