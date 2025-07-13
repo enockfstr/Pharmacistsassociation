@@ -142,3 +142,65 @@
   </footer>
 </body>
 </html>
+/* Updated Malawi-inspired theme */
+body {
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #000000; /* Black */
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+nav {
+  background: #d32f2f; /* Red */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 10px 15px;
+  font-weight: bold;
+}
+
+section {
+  background: white;
+  margin: 30px auto;
+  padding: 40px;
+  max-width: 1000px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: #2e7d32; /* Green - keeping this to reflect nature and healthcare */
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background: #2e7d32; /* Green */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+a {
+  color: #d32f2f; /* Red */
+}
