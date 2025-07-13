@@ -134,11 +134,24 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>Email: <a href="mailto:pharmacistsassociation2025@gmail.com">pharmacistsassociation2025@gmail.com</a></p>
-    <p>Phone: +265 999 429 513</p>
+    <p>Phone: +265 999 429 513 or 0881865988</p>
   </section>
 
   <footer>
     &copy; 2025 Malawi Pharmacists Association. All rights reserved.
   </footer>
 </body>
+<section id="directors">
+  <h2>Board of Directors</h2>
+  <p>The following individuals serve as directors of the Malawi Pharmacists Association. They bring diverse expertise and a shared commitment to advancing pharmacy practice:</p>
+  <ul>
+    <li><strong>Enock K Foster</strong> – President | <a href="mailto:enockfstr@gmail.com">enockfstr@gmail.com</a> | +265 999 42 9513</li>
+    <li><strong>Young Ben Muhamba</strong> – Director | <a href="mailto:ymuhamba@gmail.com">ymuhamba@gmail.com</a> | +265 998 125 258</li>
+    <li><strong>Aggrey Phiri</strong> – Director | <a href="mailto:aggreyphiri@gmail.com">aggreyphiri@gmail.com</a> | +265 884 407 229</li>
+    <li><strong>Msungeni Chiponda</strong> – Vice Secretary | <a href="mailto:chipondamsungeni@gmail.com">chipondamsungeni@gmail.com</a> | +265 997 449 671</li>
+    <li><strong>Grey Chapota</strong> – Director | <a href="mailto:gchapota@gmail.com">gchapota@gmail.com</a> | +265 994 636 847</li>
+    <li><strong>Nelson Nanchinga</strong> – Director | <a href="mailto:nnanchinga@yahoo.co.uk">nnanchinga@yahoo.co.uk</a> | +265 999 459 088</li>
+  </ul>
+</section>
+
 </html>
