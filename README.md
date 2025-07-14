@@ -58,6 +58,61 @@
       color: #2e7d32;
     }
   </style>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Malawi Pharmacists Association</title>
+  <style>
+    body {
+      background-color: #f4f4f4;
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    svg {
+      margin-top: 40px;
+      width: 300px;
+      height: 300px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 style="color: darkgreen;">Malawi Pharmacists Association</h1>
+
+  <!-- Inline SVG Logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+    <!-- Malawi flag stripes -->
+    <rect y="0" width="100%" height="20" fill="#000"/>
+    <rect y="20" width="100%" height="20" fill="#DA1212"/>
+    <rect y="40" width="100%" height="20" fill="#4CAF50"/>
+
+    <!-- Bowl -->
+    <ellipse cx="150" cy="180" rx="60" ry="20" fill="#4CAF50" />
+    <path d="M120,180 Q150,120 180,180" stroke="#000" stroke-width="4" fill="none" />
+
+    <!-- Snake -->
+    <circle cx="150" cy="110" r="10" fill="#DA1212" />
+    <path d="M140,110 C130,90 170,90 160,110" stroke="gray" stroke-width="4" fill="none" />
+
+    <!-- Capsule -->
+    <rect x="130" y="210" width="40" height="20" rx="10" fill="#4CAF50" />
+
+    <!-- Human figures -->
+    <circle cx="60" cy="240" r="10" fill="#000" />
+    <rect x="55" y="250" width="10" height="20" fill="#000" />
+
+    <circle cx="240" cy="240" r="10" fill="#000" />
+    <rect x="235" y="250" width="10" height="20" fill="#000" />
+
+    <!-- Text -->
+    <text x="150" y="290" font-size="16" text-anchor="middle" fill="blue">
+      Malawi Pharmacists Association
+    </text>
+  </svg>
+
+</body>
+
+
 </head>
 <body>
   <header>
