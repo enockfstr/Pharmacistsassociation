@@ -73,6 +73,7 @@
     <a href="#intro-letter">Welcome</a>
     <a href="#governance">Governance</a>
     <a href="#contact">Contact</a>
+    <a href="#links">links</a>
   </nav>
 
   <section id="about">
@@ -106,7 +107,7 @@
 
   <section id="cpd">
     <h2>Continuing Professional Development (CPD)</h2>
-    <p>We seek formal recognition as a CPD provider, supporting pharmacists with updated skills, mentorship, and research-informed practice. CPD is our tool to empower practitioners and contribute to national health transformation.</p>
+    <p>We offer CPDs to the  members of profession and other heath care providers, supporting them with updated skills, mentorship, and research-informed practice. CPD is our tool to empower practitioners and contribute to national health transformation. To request for the special CPDs please send us email on pharmacistsassociation@gmail.com.</p>
     <ul>
       <li>Ongoing education and training</li>
       <li>Ethical practice standards</li>
@@ -145,12 +146,13 @@
   <h2>Board of Directors</h2>
   <p>The following individuals serve as directors of the Malawi Pharmacists Association. They bring diverse expertise and a shared commitment to advancing pharmacy practice:</p>
   <ul>
-    <li><strong>Enock K Foster</strong> – President | <a href="mailto:enockfstr@gmail.com">enockfstr@gmail.com</a> 
-    <li><strong>Young Ben Muhamba</strong> – Director | <a href="mailto:ymuhamba@gmail.com">ymuhamba@gmail.com</a>
-    <li><strong>Aggrey Phiri</strong> – Director | <a href="mailto:aggreyphiri@gmail.com">aggreyphiri@gmail.com</a>
-    <li><strong>Msungeni Chiponda</strong> – Vice Secretary | <a href="mailto:chipondamsungeni@gmail.com">chipondamsungeni@gmail.com</a>
-    <li><strong>Grey Chapota</strong> – Director | <a href="mailto:gchapota@gmail.com">gchapota@gmail.com</a> 
-    <li><strong>Nelson Nanchinga</strong> – Director | <a href="mailto:nnanchinga@yahoo.co.uk">nnanchinga@yahoo.co.uk</a>
+    <li><strong>Enock K Foster</strong> – President
+    <li><strong>Young Ben Muhamba</strong> – Vice president
+    <li><strong>Benjamin Chinoko</strong> – Secretary General
+    <li><strong>Aggrey Phiri</strong> – Executive member
+    <li><strong>Msungeni Chiponda</strong> – Vice Secretary
+    <li><strong>Grey Chapota</strong> – Executive member
+    <li><strong>Nelson Nanchinga</strong> – Treasurer 
   </ul>
 </section>
 <section id="resources">
